@@ -1,0 +1,8 @@
+// This file should not be committed to source control.
+
+node_modules
+.next
+out
+coverage
+npm-debug.log*
+.DS_Store
